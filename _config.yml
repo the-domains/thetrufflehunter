@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.4931078
+  brandStrength: 0.840676
+  lightness: 1
+  rhythmicContrast: 0
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+typography_spectrum: 0.06453634
+name: TheTruffleHunter
